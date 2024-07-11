@@ -1,0 +1,7 @@
+openai==1.12.0
+accelerate==0.25.0
+transformers==4.37.2
+anthropic==0.19.1
+pyautogen==0.2.17
+beautifulsoup4==4.12.3
+torch==2.1.2
