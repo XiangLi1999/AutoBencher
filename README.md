@@ -8,11 +8,9 @@ pip insall -r requirements.txt
 
 Then, you can run the following command to start the benchmark to experiment with the kowledge intensive tasks:
 ```bash
-
-```bash 
-python run_script.py wiki
-python run_script.py multilingual
-python run_script.py math
+python run_scripts.py wiki
+python run_scripts.py multilingual
+python run_scripts.py math
 ```
 
 Specifically, the above scripts run the following command: 
